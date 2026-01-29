@@ -1,1 +1,12 @@
-"halo muhammad Hasyim Ma'ruf"
+nama = input("Masukkan nama kamu: ")
+umur = input("Masukkan umur kamu: ")
+kelas = input("Masukkan kelas kamu: ")
+alamat = input("Masukkan alamat kamu: ")
+hobi = input("Masukkan hobi kamu: ")
+
+print("\n===== BIODATA =====")
+print("Nama   :", nama)
+print("Umur   :", umur, "tahun")
+print("Kelas  :", kelas)
+print("Alamat :", alamat)
+print("Hobi   :", hobi)
